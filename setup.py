@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='mdextractor',
-    version='0.0.3',
+    version='0.0.4',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='Extract Markdown code blocks from text strings.',
